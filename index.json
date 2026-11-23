@@ -1,0 +1,11 @@
+{
+  "org": "kornelski",
+  "repo": "rust-rgb",
+  "versions": [
+    {
+      "commit": "10d080dc228b3a5e1db8933af02fd0a4c391c902",
+      "tag": "v0.8.54",
+      "parsed_at": "2026-11-23T04:43:38.479990+00:00"
+    }
+  ]
+}
